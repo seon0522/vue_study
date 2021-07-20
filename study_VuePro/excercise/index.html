@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Excercise</title>
+    <link rel="stylesheet" type="text/css" href="assets/styles.css">
+</head>
+<body>
+<div class="nav-bar"></div>
+<div id="app">
+    <div class="cart">
+        <p>Cart {{cart}}</p>
+    </div>
+    <product @event-add-cart="addToCart"></product>
+
+</div>
+<script src="https://cdn.jsdelivr.net/npm/vue"></script>
+<script src="./main.js"></script>
+</body>
+</html>
+
+<!--   <p v-if="inventory == 0">Out of Stock</p>
+                <p v-else-if="inventory <= 10 && inventory > 0">Almost sold out!</p>
+                <p v-else > In Stock</p>-->
