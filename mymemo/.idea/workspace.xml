@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b6401d22-a3b6-4142-89b5-4731fa90e747" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../my-cafe/src/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-cafe/src/store/modules/reviews.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-cafe/src/store/modules/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-cafe/vue.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nano-example/backend/model/books.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nano-example/backend/routes/books.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nano-example/frontend/src/components/booklist.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nano-example/frontend/src/views/bookdetail.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nano-example/frontend/src/views/books.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nano-example/frontend/vue.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-cafe/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../my-cafe/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-cafe/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../my-cafe/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-cafe/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../my-cafe/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-cafe/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../my-cafe/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-cafe/src/components/HelloWorld.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../my-cafe/src/components/HelloWorld.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-cafe/src/components/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../my-cafe/src/components/Home.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-cafe/src/components/Menus.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../my-cafe/src/components/Menus.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-cafe/src/components/Reviews.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../my-cafe/src/components/Reviews.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-cafe/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../my-cafe/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist/src/components/BaseInputText.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../todolist/src/components/BaseInputText.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist/src/components/TodoListItem.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../todolist/src/components/TodoListItem.vue" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1wISifyaoRl8XL71PUu0Luvq7qo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/my-memo" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6401d22-a3b6-4142-89b5-4731fa90e747" name="Default Changelist" comment="" />
+      <created>1628144737437</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628144737437</updated>
+      <workItem from="1628144738688" duration="879000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
