@@ -25,7 +25,7 @@ export default {
           name:'카페라떼',
           price:2000} ,{id:3 ,
           name:'초코라떼',
-          price:3000}]=-09
+          price:3000}]
     }
   },
   methods:{

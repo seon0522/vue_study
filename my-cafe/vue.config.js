@@ -5,9 +5,13 @@ module.exports={
                 target:'https://jsonplaceholder.typicode.com',
                 changeOrigin:true,
                 pathRewrite:{
-                    '^api':''
+                    '^/api':''
                 }
             }
         }
-    }
+    },
+
+    transpileDependencies: [
+      'vuetify'
+    ]
 }
