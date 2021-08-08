@@ -2,25 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6401d22-a3b6-4142-89b5-4731fa90e747" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../my-cafe/src/store/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../my-cafe/src/store/modules/reviews.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../my-cafe/src/store/modules/user.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../my-cafe/vue.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nano-example/backend/model/books.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nano-example/backend/routes/books.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nano-example/frontend/src/components/booklist.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nano-example/frontend/src/views/bookdetail.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nano-example/frontend/src/views/books.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nano-example/frontend/vue.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-cafe/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../my-cafe/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-cafe/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../my-cafe/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-cafe/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../my-cafe/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-cafe/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../my-cafe/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-cafe/src/components/HelloWorld.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../my-cafe/src/components/HelloWorld.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-cafe/src/components/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../my-cafe/src/components/Home.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-cafe/src/components/Menus.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../my-cafe/src/components/Menus.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-cafe/src/components/Reviews.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../my-cafe/src/components/Reviews.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-cafe/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../my-cafe/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-memo/src/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-memo/src/store/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-memo/src/views/About.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-memo/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/my-memo/src/views/Home.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-memo/src/views/Signin.vue" beforeDir="false" afterPath="$PROJECT_DIR$/my-memo/src/views/Signin.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-memo/src/views/Signup.vue" beforeDir="false" afterPath="$PROJECT_DIR$/my-memo/src/views/Signup.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../todolist/src/components/BaseInputText.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../todolist/src/components/BaseInputText.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../todolist/src/components/TodoListItem.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../todolist/src/components/TodoListItem.vue" afterDir="false" />
     </list>
@@ -32,6 +19,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="1wISifyaoRl8XL71PUu0Luvq7qo" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -42,7 +37,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/my-memo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -55,6 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1628144737437</updated>
       <workItem from="1628144738688" duration="879000" />
+      <workItem from="1628237532728" duration="7647000" />
     </task>
     <servers />
   </component>
@@ -71,5 +73,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

@@ -1,6 +1,7 @@
+<!-- 메모 리스트로 만들려고 함. -->
 <template>
   <div>
-    help me
+<!--    <p v-if="isAu"></p>-->
   </div>
 </template>
 

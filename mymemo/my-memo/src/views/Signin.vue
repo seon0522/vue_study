@@ -1,4 +1,6 @@
+<!--로그인-->
 <script src="../../vue.config.js"></script>
+
 <template>
  <div>
    <h1>Signin</h1>
@@ -7,6 +9,10 @@
      <input type="password" v-model="password" placeholder="Password" />
      <input type="submit" value="Signin" />
    </form>
+   <div>
+     <router-link to="./Signup"></router-link>
+   </div>
+
    <li>
      <p>{{message}}</p>
    </li>
@@ -14,8 +20,10 @@
 </template>
 
 <script>
+
 export default {
-name: "Signin",
+name: "Signin"
+,
   data(){
   return{
     userid:'',
