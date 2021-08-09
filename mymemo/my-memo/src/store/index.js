@@ -43,6 +43,7 @@ export default new Vuex.Store({
             return axios.post('/api/auth/login', data)
                 .then(response => {
                     if (response.status == 200) {
+                        console.log('signin scess')
                         commit('signin', {accessToken: response.data.token})
                     }
                 })
@@ -56,19 +57,19 @@ export default new Vuex.Store({
         //회원가입 하기 -- 리스폰 받을 게 없어서 commit안 함.
         signup(payload) {
             const data = {
-                userid: payload.userid, password: payload.password, name: payload.name
+                userid: payload.userid,  name: payload.name , password: payload.password
             }
-            return axios.post('/users/', data)
+            return axios.post('/api/users/', data)
                 .then(response => {
                     // console.log(response)
                     if (response.status == 200) {
                         console.log('signup');
                     }
                 }).catch(error => {
+                    console.log('id : ' + data.userid + 'name : '+data.name + 'password : ' + data.password  );
                     console.log('signup Error')
                     return Promise.reject(error)
                 })
-
         }
     }
 })

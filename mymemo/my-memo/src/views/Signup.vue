@@ -1,14 +1,14 @@
-!--회원가입-->
-<+
-*-script src="../store/index.js"></script>
+<!--회원가입-->
+
+<script src="../store/index.js"></script>
 <template>
 <div>
   <h1>Signup</h1>
-  <form @submit.prevent="onSubmit(userid, password, name)">
-    <input type="text" v-model="userid" placeholder="User ID" />
-    <input type="password" v-model="password" placeholder="Password" />
-    <textarea v-model="name" cols="30" rows="10"></textarea>
-    <input type="submit" value="signin" />
+  <form @submit.prevent="onSubmit(userid, name , password)">
+    ID  : <input type="text" v-model="userid" placeholder="User ID" /><br>
+    Name: <input type="text" v-model="name" placeholder="name" /><br>
+    PW  : <input type="password" v-model="password" placeholder="Password" /><br>
+    <input type="submit" value="signin" /><br>
   </form>
 </div>
 </template>
@@ -20,15 +20,15 @@ name: "Signup",
   data(){
     return{
       userid:'',
+      name:'',
       password:'',
-      name:''
     }
   },
   methods:{
-    onSubmit(userid, password, name){
-      this.$store.dispatch('signup',{userid, password, name})
+    onSubmit(userid, name, password){
+      this.$store.dispatch('signup',{userid, name, password})
           .then(()=>{
-            this.$router.push('/signin')
+            this.$router.push('/')
           })
           .catch(()=>{
             this.message='Signup please.'

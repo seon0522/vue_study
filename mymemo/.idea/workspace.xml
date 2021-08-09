@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="b6401d22-a3b6-4142-89b5-4731fa90e747" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniNodeServer-main/models/mini-db" beforeDir="false" afterPath="$PROJECT_DIR$/miniNodeServer-main/models/mini-db" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my-memo/src/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-memo/src/store/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-memo/src/views/About.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-memo/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/my-memo/src/views/Home.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-memo/src/views/Signin.vue" beforeDir="false" afterPath="$PROJECT_DIR$/my-memo/src/views/Signin.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my-memo/src/views/Signup.vue" beforeDir="false" afterPath="$PROJECT_DIR$/my-memo/src/views/Signup.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../todolist/src/components/BaseInputText.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../todolist/src/components/BaseInputText.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../todolist/src/components/TodoListItem.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../todolist/src/components/TodoListItem.vue" afterDir="false" />
@@ -57,6 +58,8 @@
       <updated>1628144737437</updated>
       <workItem from="1628144738688" duration="879000" />
       <workItem from="1628237532728" duration="7647000" />
+      <workItem from="1628484249892" duration="1346000" />
+      <workItem from="1628506931630" duration="2796000" />
     </task>
     <servers />
   </component>
